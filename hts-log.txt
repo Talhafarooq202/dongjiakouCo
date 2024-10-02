@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 02 Oct 2024 05:43:45 at https://template.dsngrid.com/exfolio/dark/creative.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://template.dsngrid.com/exfolio/dark/creative.html -O1 "E:\FalconXoft\WebProject\ship" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/img/bg-line.png (from https://template.dsngrid.com/exfolio/dark/assets/css/style.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/img/bg-arc.png (from https://template.dsngrid.com/exfolio/dark/assets/css/style.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/img/patterns.png (from https://template.dsngrid.com/exfolio/dark/assets/css/style.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/img/portfolio/project3/0.jpg (from https://template.dsngrid.com/exfolio/dark/project-3.html)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-brands-400.eot (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-brands-400.eot? (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-brands-400.ttf (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-brands-400.svg (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-regular-400.eot (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-regular-400.eot? (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-regular-400.ttf (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-regular-400.svg (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-solid-900.eot (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-solid-900.eot? (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-solid-900.ttf (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+05:46:28	Error: 	"Not Found" (404) at link https://template.dsngrid.com/exfolio/dark/assets/fonts/fa-solid-900.svg (from https://template.dsngrid.com/exfolio/dark/assets/css/plugins/fontawesome-all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 219 links scanned, 202 files written (71644878 bytes overall) [68988486 bytes received at 423242 bytes/sec], 3664501 bytes transferred using HTTP compression in 55 files, ratio 24%, 7.3 requests per connection
+(16 errors, 0 warnings, 0 messages)
